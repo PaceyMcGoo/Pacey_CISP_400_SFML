@@ -21,7 +21,7 @@ int main()
     
     Text hud;
     Font font;
-    font.loadFromFile("fonts/DS-DIGIT.,TIF");
+    font.loadFromFile("fonts/DS-DIGIT.TTF");
     hud.setFont(font);
     hud.setCharacterSize(75);
     hud.setPosition(20, 20);
